@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: News Wall\n"
+"POT-Creation-Date: 2022-02-23 01:12+0330\n"
+"PO-Revision-Date: 2022-02-23 13:53+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: news-wall.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: news-wall.php:49 news-wall.php:51
+msgid "آخرین خبر ها"
+msgstr "Latest news"
+
+#: plugin-panel.php:17 plugin-panel.php:87
+msgid ""
+"تمام فیلد ها اجباری هستند و باید پر شوند. هنگام پر کردن فیلد ها به موارد زیر "
+"توجه کنید: <br>\n"
+"                        عنوان خبر نمیتواند بیشتر از 50 کاراکتر باشد"
+msgstr ""
+"All inputs are required(Except for the user ID)\n"
+"News title must be less than 50 characters"
+
+#: plugin-panel.php:21 plugin-panel.php:91
+msgid "عنوان خبر"
+msgstr "News Title"
+
+#: plugin-panel.php:22 plugin-panel.php:92
+msgid "یک عنوان برای خبر انتخاب کنید"
+msgstr "News title"
+
+#: plugin-panel.php:24
+msgid "متن خبر"
+msgstr "News Text"
+
+#: plugin-panel.php:25
+msgid ""
+"اگر مشکلی با ویرایشگر متن بالا(متن خبر) داشتید صفحه را چند بار رفرش کنید، کش "
+"صفحه را پاک کنید و در نهایت اگر مشکل همچنان پایدار بود عبارت wordpress "
+"visual editor not working را در گوگل جستجو کنید."
+msgstr ""
+"If you have a problem with the text editor above, do a Google search for the "
+"wordpress visual editor not working"
+
+#: plugin-panel.php:26 plugin-panel.php:94
+msgid "ارسال خصوصی پیام"
+msgstr "Send Private News"
+
+#: plugin-panel.php:27 plugin-panel.php:95
+msgid "آیدی کاربری که میخواهید پیام به شکل خصوصی برایش ارسال شود را وارد کنید."
+msgstr "The ID of the user who receives the private message"
+
+#: plugin-panel.php:28 plugin-panel.php:96
+msgid ""
+"درصورتی که این یک خبر عمومی است و قرار است به تمام کاربران برسد این فیلد را "
+"خالی بگذارید. برای یادگیری نحوه بدست آوردن آیدی کاربران در گوگل جستجو کنید."
+msgstr "If this is public news, do not fill out this input"
+
+#: plugin-panel.php:29 plugin-panel.php:97
+msgid "ثبت خبر"
+msgstr "Send News"
+
+#: plugin-panel.php:46 plugin-panel.php:112
+msgid "مشکلی در ثبت اطلاعات پیش آمد"
+msgstr "An error occurred"
+
+#: plugin-panel.php:49
+msgid "خبر با موفقیت ثبت شد!"
+msgstr "News sent successfully"
+
+#: plugin-panel.php:50 plugin-panel.php:116 plugin-panel.php:231
+msgid "بازگشت به خانه"
+msgstr "Back to home"
+
+#: plugin-panel.php:53 plugin-panel.php:119
+msgid "یک فیلد/چند فیلد به اشتباه پر شده است/ شده اند. ورودی ها:"
+msgstr "One or more incorrect inputs have been filled"
+
+#: plugin-panel.php:54 plugin-panel.php:120
+msgid "عنوان : "
+msgstr "Title: "
+
+#: plugin-panel.php:54 plugin-panel.php:120
+msgid "متن : "
+msgstr "Text: "
+
+#: plugin-panel.php:59
+msgid "واقعا میخواهید این خبر را حذف کنید؟"
+msgstr "Do you really want to delete this news?"
+
+#: plugin-panel.php:61
+msgid "بله"
+msgstr "Yes"
+
+#: plugin-panel.php:62
+msgid "خیر"
+msgstr "No"
+
+#: plugin-panel.php:72
+msgid "خبر مورد نظر با موفقیت حذف شد"
+msgstr "News deleted"
+
+#: plugin-panel.php:74
+msgid "خبر مورد نظر یافت نشد. ممکن است مشکلی پیش آماده باشد!"
+msgstr "The desired news was not found"
+
+#: plugin-panel.php:115 plugin-panel.php:230
+msgid "خبر با موفقیت ثبت شد! بعد از یک رفرش تغییرات دیده میشوند."
+msgstr "The desired news was updated. Refresh the page to see changes"
+
+#: plugin-panel.php:124
+msgid "خبر مورد نظر شما یافت نشد و یا مشکلی پیش آمده است"
+msgstr "The desired news was not found"
+
+#: plugin-panel.php:131
+msgid "  خبر جدید!"
+msgstr "New News!"
+
+#: plugin-panel.php:140
+msgid "ID"
+msgstr "ID"
+
+#: plugin-panel.php:141
+msgid "عنوان"
+msgstr "Title"
+
+#: plugin-panel.php:142
+msgid "تاریخ"
+msgstr "Date"
+
+#: plugin-panel.php:143
+msgid "بخشی از متن"
+msgstr "abstract"
+
+#: plugin-panel.php:144
+msgid "خصوصی"
+msgstr "Private"
+
+#: plugin-panel.php:145
+msgid "عملیات ها"
+msgstr "processes"
+
+#: plugin-panel.php:155
+msgid "ویرایش"
+msgstr "edit"
+
+#: plugin-panel.php:156
+msgid "حذف"
+msgstr "delete"
+
+#: plugin-panel.php:172
+msgid "راهنما و معرفی افزونه دیوار خبر"
+msgstr "Help and introduction"
+
+#: plugin-panel.php:173
+msgid "با سلام به صفحه راهنما دیوار خبر خوش آمدید."
+msgstr "Welcome to the News Wall Help page"
+
+#: plugin-panel.php:174
+msgid ""
+"دیوار اخبار یک افزونه ارتباطی یک طرفه بین مدیران سایت و کاربران است. با "
+"استفاده از این افزونه میتوانید کاربران خود را از آخبار های سایت و یا خبر های "
+"مرتبط به حوزه فعالیت سایتتان مطلع کنید."
+msgstr ""
+"News Wall is a one-way communication plugin between webmasters and users. "
+"Using this plugin, you can inform your users about site news or news related "
+"to your site's field of activity."
+
+#: plugin-panel.php:175
+msgid "راهنما استفاده"
+msgstr "How to use"
+
+#: plugin-panel.php:176
+msgid "این افزونه دو کد کوتاه و یا همان شورت کد دارد."
+msgstr "This plugin has two short codes."
+
+#: plugin-panel.php:178
+msgid "برای قرار دادن دکمه آخرین اخبار ها"
+msgstr "To insert a button to display the news summary"
+
+#: plugin-panel.php:179
+msgid "مخصوص قرار دادن اخبار وبسایت به شکل کامل در یک برگه"
+msgstr "To display the full news"
+
+#: plugin-panel.php:181 plugin-panel.php:190
+msgid "راهنمای"
+msgstr "guide"
+
+#: plugin-panel.php:182
+msgid ""
+"بعد از قرار دادن این کد در هر بخش سایت یک دکمه در آن بخش ظاهر میشود که با "
+"کلیک بر آن یک بخش ظاهر میشود که 3 تا از جدید ترین اخباروبسایت در آنجا نمایان "
+"میشوند."
+msgstr ""
+"By inserting this code, a button will appear that you can click on to see "
+"some of the latest news (you can change some things in the plugin settings)"
+
+#: plugin-panel.php:183
+msgid ""
+"این شورت کد دو ورودی میگیرد. ورودی اول نحوه و جهت چینش بخش آخرین خبر ها و "
+"دکمه نمایان شدن ان است. به صورت کلی 3 حالت برای نمایان شدنوجود دارد "
+"right(راست), left(چپ) و در نهایت center(وسط یا مرکز)."
+msgstr ""
+"This short code takes two inputs. The first input is for button arrangement. "
+"Left, right and center"
+
+#: plugin-panel.php:184
+msgid ""
+"ورودی دوم یک لینک است که در پایین بخش آخرین خبر ها قرار میگیرد. در صورت پر "
+"نکردن این گزینه لینکی نمایش داده نمیشود. اگر ورودی وارد کنید یک لینک با متن "
+"\"مشاهده کامل اخبار\" ظاهر میشود و کاربر با کلیک بر روی ان لینک به صفحه ای "
+"که لینک کرده اید میرود"
+msgstr ""
+"The second entry is a link that is suggested to be a page where the second "
+"code shortcode is used"
+
+#: plugin-panel.php:185
+msgid ""
+"وارد کردن این گزینه ها اجباری نیست. در صورت وارد نکردن ورودی نحوه چیدن جهت "
+"این بخش به صورت پیشفرض بر روی راست قرار میگیرد. همچنین در صورت وارد نکردن "
+"ورودی دوم هیچ لینکی قرار نمیگیرد و متنی هم برای لینک ظاهر نمیشود."
+msgstr "It is not mandatory to enter these inputs"
+
+#: plugin-panel.php:187
+msgid ""
+"در نهایت کد شما باید چیزی مانند این نمونه باشد: [newswallbtn center google."
+"com]"
+msgstr ""
+"If you enter entries, your code should end up with something like this: "
+"[newswallbtn center google.com]"
+
+#: plugin-panel.php:188
+msgid ""
+"نکته: گاهی ممکن است بعد ایجاد تغییرات در شورت کد دکمه آخرین خبر ها ناپدید "
+"شود. هیچ مشکلی در سایت شما و یا افزونه وجود ندارد برای حل مشکل تنها لازم است "
+"که صفحه را منتشر/ذخیره کنید و سپس صفحه را رفرش و یا به اصطلاح تازه سازی کنید."
+msgstr "Sometimes you may save and refresh the page to see changes"
+
+#: plugin-panel.php:191
+msgid ""
+"این کد برای نمایش تمامی خبر ها به شکل کامل است. نکته ای در مورد این شورت کد "
+"وجود ندارد و ورودی هم نمیگیرد."
+msgstr "This short code is for displaying news in full. Does not take input"
+
+#: plugin-panel.php:192
+msgid ""
+"میتوانید یک صفحه با نام اعلانات یا خبر ها و یا هر نام دیگری بسازید و این "
+"شورت کد را در ان قرار دهید. سپس در ورودی دوم شورت کد [newswallbtn] لینک این "
+"صفحه را قرار دهید."
+msgstr "You can create a page and put this shortcode in it."
+
+#: plugin-panel.php:212
+msgid "تعداد خبر ها در بخش آخرین خبر ها"
+msgstr "Number of news in [newswallbtn]"
+
+#: plugin-panel.php:214
+msgid "عنوان بخش خبر ها(دکمه نمایش خلاصه خبر ها)"
+msgstr "The title of the news summary section"
+
+#: plugin-panel.php:216
+msgid "عنوان بخش آخرین خبر ها(بخش همه خبر ها)"
+msgstr "Title of all news sections"
+
+#: plugin-panel.php:218
+msgid "ثبت تغییرات"
+msgstr "Submit changes"
+
+#: plugin-panel.php:233
+msgid ""
+"در ثبت اطلاعات مشکلی پیش آمد. به صورت کلی سه احتمال وجود دارد: 1- اطلاعات "
+"وارد شده تکراری است 2- مشکلی در دیتابیس وجود دارد 3- مشکلی در کد های افزونه "
+"وجود دارد."
+msgstr ""
+"there was a problem. In general, there are three possibilities: 1- The "
+"information entered is duplicate 2- There is a problem in the database 3- "
+"There is a problem with the plugin code."
+
+#: plugin-panel.php:236
+msgid "یک فیلد یا چند فیلد اشتباه پر شده است/پرشده اند."
+msgstr "One or more incorrect inputs have been filled"
+
+#: plugin-panel.php:246
+msgid "دیوار خبر"
+msgstr "News Wall"
+
+#: plugin-panel.php:255
+msgid "خبر ها - دیوار خبر"
+msgstr "News - News Wall"
+
+#: plugin-panel.php:256
+msgid "خبر ها"
+msgstr "News"
+
+#: plugin-panel.php:265
+msgid "تنظیمات - دیوار خبر"
+msgstr "Settings - Newswall"
+
+#: plugin-panel.php:266
+msgid "تنظیمات"
+msgstr "Settings"
+
+#: plugin-panel.php:275
+msgid "معرفی و راهنما - دیوار خبر"
+msgstr "Help and introduction - Newswall"
+
+#: plugin-panel.php:276
+msgid "معرفی و راهنما"
+msgstr "Help and introduction"
+
+#: shortcode.php:67 shortcode.php:104
+msgid "خبری برای نمایش وجود ندارد"
+msgstr "There is no news"
+
+#: shortcode.php:69
+msgid "مشاهده کامل خبر ها"
+msgstr "See all news"
+
+#. Plugin Name of the plugin/theme
+msgid "News Wall"
+msgstr "News Wall"
+
+#. Description of the plugin/theme
+msgid "کاربر های خود را از آخرین اخبار سایتتان با خبر کنید!"
+msgstr "Notify your users of the latest site news!"
+
+#. Author of the plugin/theme
+msgid "SarvTheme"
+msgstr "SarvTheme"
